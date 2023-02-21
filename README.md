@@ -35,4 +35,4 @@
   ## Questions
 
  
-  Author: undefined GitHub: [dinoarslanovic26](https://github.com/dinoarslanovic26) Email: dino99arslanovic@hotmail.com
+  GitHub: [dinoarslanovic26](https://github.com/dinoarslanovic26) Email: dino99arslanovic@hotmail.com
